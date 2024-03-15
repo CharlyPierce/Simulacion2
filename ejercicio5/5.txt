@@ -1,0 +1,9 @@
+Un comerciante vende periodicos a $11 cada uno, Cada periodico le cuesta al comerciante $9. Las ventas del comerciante se 
+reflejan en la tabla siguiente.
+
+Periodicos		30	40	50	60	70
+f(x)			20% 25% 25% 20% 10%
+
+Teniendo en cuenta un costo de 2 pesos por venta perdida, y un costo de 1 peso por el reciclaje de cada periodico no  bendidido,
+determine el beneficio promedio diariosi pide 50 periodicos cada dia
+
